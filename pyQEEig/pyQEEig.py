@@ -16,7 +16,7 @@ Description:
 """
 
 # Variables
-fileName = 'CuPc_output.out'
+fileName = 'output.out'
 catchCont = ['k','=','bands']
 dataCont = []
 kCont = []
