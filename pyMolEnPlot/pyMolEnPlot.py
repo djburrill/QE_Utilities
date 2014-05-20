@@ -35,7 +35,7 @@ lineWidth = 1
 offset = 10
 outFile = 'IntensityData'
 sFE = True                  # Switch for specifying Fermi Energy
-fermiEnergy = -10
+fermiEnergy = -4.19
 
 # UPS Variables
 gWidth = 0.7
