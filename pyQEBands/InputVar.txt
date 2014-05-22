@@ -1,8 +1,0 @@
-header = End of band structure calculation
-footer = Writing output data file pwscf.save
-inFileName = output.out
-pwfcPath = /home/djburrill/Documents/espresso-5.0.2/PP/src/projwfc.x
-pwfcOutputFile = projections.out
-pwfcOutputStd = output_wfcProj.out
-pwfcInput = input_wfcProj.in
-outFileName = Bands.csv
